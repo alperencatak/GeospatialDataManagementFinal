@@ -4,9 +4,10 @@ Here is the results that you must see.
 
 ![Başlıksız-3](https://github.com/alperencatak/GeospatialDataManagementFinal/assets/118128475/d851b0fd-5fda-48cd-8995-83b8d18b56be)
 
-Here is "console.log" information about bounds of map.
+Here is "console.log" information about bounds of map and information about 'restaurants' that I get from Travel Advisor API by default coordinates.
 
-![Başlıksız-4](https://github.com/alperencatak/GeospatialDataManagementFinal/assets/118128475/85db1920-ffee-40a0-ba9c-c4f2d35ca230)
+![image](https://github.com/alperencatak/GeospatialDataManagementFinal/assets/118128475/74326bc4-0b4a-44db-bfc1-45781f10cdce)
+
 
 Here is the error detail that I mentioned about main repostery.
 
